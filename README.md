@@ -1,2 +1,2 @@
-# kaggle_instant_gratification
+# kaggle instant gratification
 Kaggle competition 2019-03
